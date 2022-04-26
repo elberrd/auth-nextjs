@@ -1,3 +1,19 @@
+# Welcome
+
+I am learning Next Js - and for this project I am using:
+
+- NextJs 12
+- PlanetScale
+- Prisma
+- NextAuth
+- Tailwind
+
+This project is only for reference.
+
+You will be able to login using GitHub account, and logout. I am using getServerSideProps to check session.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
